@@ -11,7 +11,7 @@ I suggest using Git for this in order to learn it, but technically you can just 
 
 Git is a tool that allows you to save versions of code locally on your computer, or on the web in places like GitHub. [Check out this guide](https://github.com/git-guides/install-git) to install Git on your computer.
 
-Once you have it installed, open up a terminal in VS Code by pressing `ctrl ` ` and type:
+Once you have it installed, open up a terminal in VS Code by pressing ``ctrl + ` `` and type:
 
 ```
 git clone https://github.com/brbarnett/html-css-js-starter.git
@@ -23,7 +23,7 @@ This will download the code to your computer automatically so you can play with 
 This may seem like overkill, but some of the things we're going to install here are tools that developers use every day.
 
 1. [Download and install Node.js](https://nodejs.org/en/download/current) - Node.js is a JavaScript-based environment that can run as a server.
-2. VS Code comes with an integrated terminal to run commands. Type `ctrl + ` ` to open it up.
+2. VS Code comes with an integrated terminal to run commands. Type ``ctrl + ` `` to open it up.
 3. Type `npx http-server -o -c-1` and hit enter. If it asks you to install the `http-server` package, type `y` and enter.
 4. Navigate your browser to [http://127.0.0.1:8080/](http://127.0.0.1:8080/) to view the webpage!
 5. Open up the dev console by pressing `F12` in your browser to view how the code is working.
