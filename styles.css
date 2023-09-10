@@ -1,0 +1,13 @@
+html,
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main {
+    padding: 20px;
+}
+
+h1 {
+    color: blue;
+    font-style: italic;
+}
